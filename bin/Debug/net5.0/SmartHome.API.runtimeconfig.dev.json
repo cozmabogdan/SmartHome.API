@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/cozma/.dotnet/store/|arch|/|tfm|",
+      "/Users/cozma/.nuget/packages"
+    ]
+  }
+}
